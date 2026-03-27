@@ -35,4 +35,9 @@
 Лицензия
 Проект доступен под MIT License. См. LICENSE
  для подробностей.
-<img width="376" height="525" alt="image" src="https://github.com/user-attachments/assets/08b8624d-1a55-4f42-98e3-46778c462444" />
+ <img width="154" height="81" alt="image" src="https://github.com/user-attachments/assets/901cf48f-78a3-4a7a-b891-6d4a4de43cb8" />
+ <img width="284" height="257" alt="image" src="https://github.com/user-attachments/assets/9973f6bc-abab-4ac3-af1c-b7514e9be881" />
+ <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/58173d87-9b9e-4848-8873-2cfd3b3ef2f3" />
+
+
+
